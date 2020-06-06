@@ -20,6 +20,18 @@ A Next Level Week é uma experiência online criada pela Rocketseat de uma seman
 
 As aulas foram ministradas pelo **[Mayk Brito](https://github.com/maykbrito)** nas aulas da **[Next Level Week](https://nextlevelweek.com/)**
 
+### 📦 Use application
+```bash
+# Clone this repository
+$ git clone https://github.com/JesseAvilaa/Ecoleta.git
+
+# Install dependencies
+$ yarn or yarn install
+
+# Run
+$ yarn dev
+$ yarn start
+
 ## 📝 License
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
