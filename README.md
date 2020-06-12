@@ -20,10 +20,6 @@ A Next Level Week é uma experiência online criada pela Rocketseat de uma seman
 
 As aulas foram ministradas pelo **[Mayk Brito](https://github.com/maykbrito)** nas aulas da **[Next Level Week](https://nextlevelweek.com/)**
 
-## 📝 License
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ---
 
 <h4 align="center">
